@@ -4,9 +4,16 @@
 
 ---
 ### Set Detalis
-> 1 Install Python and upgrade it.
+>1 Install Python and upgrade it.
 ```
-_sudo apt-get install python_
-_sudo pip3 install --upgrade pip
+sudo apt-get install python
+sudo pip3 install --upgrade pip
 ```
-
+>2 Install jupyter matplotlib, numpy, pandas, scipy, scikit-learn
+```
+python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn"
+```
+>3 Open jupyter notebook
+```
+jupyter notebook
+```
