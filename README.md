@@ -1,4 +1,2 @@
-##House-Price-Predictor
-
--[ ] Set Details:
+##House-Price-PredicSet Details:
 install
