@@ -1,3 +1,4 @@
-## Hisjdjdjj
-##kdkfjkjkfjk
-@@dkfkdjfkjk
+##House-Price-Predictor
+
+-[ ] Set Details:
+install
