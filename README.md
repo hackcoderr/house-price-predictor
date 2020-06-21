@@ -13,7 +13,7 @@ sudo pip3 install --upgrade pip
 ```
 pip3 install --upgrade jupyter matplotlib, numpy, pandas, scipy, scikit-learn
 ```
->3 Import jupyter matplotlib, numpy, pandas, scipy, scikit-learn in python
+>3 Import jupyter, matplotlib, numpy, pandas, scipy, scikit-learn in python
 ```
 python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn"
 ```
