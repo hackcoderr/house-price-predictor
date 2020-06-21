@@ -9,9 +9,9 @@ This is machine learning project which is made to a prediction for a House Produ
 sudo apt-get install python
 sudo pip3 install --upgrade pip
 ```
->2 Install jupyter matplotlib, numpy, pandas, scipy, scikit-learn
+>2 Install jupyter, matplotlib, numpy, pandas, scipy, scikit-learn
 ```
-pip3 install --upgrade jupyter matplotlib, numpy, pandas, scipy, scikit-learn
+pip3 install --upgrade jupyter, matplotlib, numpy, pandas, scipy, scikit-learn
 ```
 >3 Import jupyter, matplotlib, numpy, pandas, scipy, scikit-learn in python
 ```
